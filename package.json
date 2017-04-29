@@ -1,0 +1,32 @@
+{
+    "author": "dnastase@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "mypebble",
+    "pebble": {
+        "capabilities": [
+            "location",
+            "configurable",
+            "health"
+        ],
+        "displayName": "MyPebble",
+        "enableMultiJS": true,
+        "messageKeys": {
+            "message": 1,
+            "status": 0
+        },
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "diorite"
+        ],
+        "uuid": "64a1d520-c00c-41d5-b91b-dba22618a57e",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
